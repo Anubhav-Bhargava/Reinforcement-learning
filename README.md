@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Detection
+# Reinforcement-learning
 
 This is the implementation for cart-pole reinforcement learning
 
