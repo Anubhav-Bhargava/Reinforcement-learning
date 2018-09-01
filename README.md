@@ -2,6 +2,8 @@
 
 This is the implementation for cart-pole reinforcement learning
 
+![Demo](animation.gif)
+
 # Prerequisites
 
 >The code is developed for Python 2.7
